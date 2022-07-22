@@ -1,0 +1,18 @@
+{
+  "name": "interview-problems",
+  "version": "1.0.0",
+  "main": "",
+  "repository": "https://github.com/lifeomic/interview-problems",
+  "author": "LifeOmic Dev",
+  "license": "MIT",
+  "dependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^4.7.4"
+  },
+  "scripts": {
+    "test": "pushd problems/ && ts-node"
+  },
+  "devDependencies": {
+    "@types/node": "^18.0.6"
+  }
+}
