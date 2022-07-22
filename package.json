@@ -10,7 +10,8 @@
     "typescript": "^4.7.4"
   },
   "scripts": {
-    "test": "pushd problems/ && ts-node"
+    "test": "ts-node test.ts",
+    "run": "pushd problems/ && ts-node"
   },
   "devDependencies": {
     "@types/node": "^18.0.6"
