@@ -11,7 +11,7 @@
   },
   "scripts": {
     "test": "ts-node test.ts",
-    "run": "pushd problems/ && ts-node"
+    "validate": "pushd problems/ && ts-node"
   },
   "devDependencies": {
     "@types/node": "^18.0.6"

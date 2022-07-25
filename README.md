@@ -12,4 +12,7 @@ Feel free to use MDN/docs, just don't google the solution
 
 ## Coding
 
-To run test for code problems, run `yarn run <problem-name>`:
+To run test for code problems, run `yarn validate <problem-name>`:
+
+If running a UI problem, you'll need to `yarn install` or `npm install` inside the
+problem directory, then `yarn start` or `npm start`
