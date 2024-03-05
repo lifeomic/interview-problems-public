@@ -48,4 +48,4 @@ during the course of this exercise.
 
 ### Submitting
 
-Once you have completed this programming exercise, commit your changes to the branch and push them up.
+Please create a zip file of all of your source code (omit node_modules or any other derived resources). Upload the zip file to Google Drive or some other file sharing service and share with us.
